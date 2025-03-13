@@ -1,8 +1,0 @@
-blocktypes.c:blockParse
-main.c:cws2fws
-main.c:main
-main.c:readMovie
-parser.c:parseABC_CONSTANT_POOL
-parser.c:parseABC_FILE
-parser.c:parseABC_NS_SET_INFO
-parser.c:parseSWF_DOABC

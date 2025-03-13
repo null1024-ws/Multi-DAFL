@@ -1,9 +1,0 @@
-Makefile.in
-Makefile
-dotests
-php.ini
-.deps
-.libs
-test01
-test01-cxx
-test01.swf

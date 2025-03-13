@@ -1,4 +1,0 @@
-main.c:main
-parser.c:parseSWF_DEFINEFONT
-read.c:readUInt16
-read.c:readUInt8
