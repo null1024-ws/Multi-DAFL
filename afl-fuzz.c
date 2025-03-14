@@ -8547,7 +8547,7 @@ static void nomalize(double* cur_prob, double* cur_select_score){
 
 static int select_target(void){
   // Test whether the instrumented binary can be fuzzed and find the crash cases.
-  return 0;
+  //return 0;
   int share_time;
   // raw_prob & raw_select_score is used to determine whether fuzzer has run enough times for some targets
   double prob = 0, raw_prob = 0;
